@@ -45,3 +45,8 @@ header{
 .container1{
     display: none;
 }
+.direita{
+    display: flex;
+}.some{
+    padding: 0 20px;
+}
