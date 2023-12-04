@@ -3,16 +3,19 @@
     background: linear-gradient(93.83deg, #1D592E 14.82%, #BEE1C8 142.61%);
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .lado1{
     background-color: #BEE1C8;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .grupo{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     background-color: #BEE1C8;
+    align-items: center;
 }
 .meio{
     text-align: center;
