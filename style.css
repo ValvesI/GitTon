@@ -29,6 +29,7 @@ h2,h3{
 .lista{
     display: none;
     position: absolute;
+    top: 100%;
     
 }
 .container1:checked~.lista{
