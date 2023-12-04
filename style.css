@@ -28,9 +28,13 @@ h2,h3{
 }
 .lista{
     display: none;
+    position: absolute;
     
 }
 .container:checked~.lista{
     display: block;
 
+}
+header{
+    position: relative;
 }
