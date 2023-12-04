@@ -26,3 +26,11 @@ h2,h3{
     color: #6E603A;
     ;
 }
+.lista{
+    display: none;
+    
+}
+.container:checked~.lista{
+    display: block;
+
+}
