@@ -63,6 +63,20 @@ header{
 footer{
     background-color: #1D592E;
     margin: 0;
-    padding: 20px;
+    padding: 10px;
   text-align: center;
+}
+@media screen and (max-width: 401px) {
+    .some{
+        display: none;
+    }
+    .grupo{
+        display: grid;
+        grid-template-columns: 50% 50%;
+
+    }
+    .lado1{
+        display: block;
+    }
+
 }
