@@ -31,7 +31,7 @@ h2,h3{
     position: absolute;
     
 }
-.container:checked~.lista{
+.container1:checked~.lista{
     display: block;
 
 }
