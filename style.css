@@ -24,7 +24,7 @@
 }
 h2,h3{
     color: #6E603A;
-    ;
+    
 }
 .lista{
     display: none;
@@ -77,6 +77,10 @@ footer{
     }
     .lado1{
         display: block;
+    }
+    h2,h3{
+        font-size: 12px;
+        ;
     }
 
 }
